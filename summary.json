@@ -1,0 +1,276 @@
+{
+ "hasdata-books": {
+  "runs": [
+   {
+    "items": 20,
+    "title": 20,
+    "price": 20,
+    "availability": 20,
+    "rating": 20
+   },
+   {
+    "items": 20,
+    "title": 20,
+    "price": 20,
+    "availability": 20,
+    "rating": 20
+   },
+   {
+    "items": 20,
+    "title": 20,
+    "price": 20,
+    "availability": 20,
+    "rating": 20
+   }
+  ],
+  "seconds": [
+   5.82,
+   6.99,
+   6.27
+  ],
+  "consistent": true
+ },
+ "scrapingbee-books": {
+  "runs": [
+   {
+    "items": 20,
+    "title": 20,
+    "price": 20,
+    "availability": 20,
+    "rating": 20
+   },
+   {
+    "items": 20,
+    "title": 20,
+    "price": 20,
+    "availability": 20,
+    "rating": 20
+   },
+   {
+    "items": 20,
+    "title": 20,
+    "price": 20,
+    "availability": 20,
+    "rating": 20
+   }
+  ],
+  "seconds": [
+   1.66,
+   1.48,
+   1.53
+  ],
+  "consistent": true
+ },
+ "zyte-books": {
+  "runs": [
+   {
+    "items": 20,
+    "title": 10,
+    "price": 20,
+    "availability": 0,
+    "rating": 0
+   },
+   {
+    "items": 20,
+    "title": 10,
+    "price": 20,
+    "availability": 0,
+    "rating": 0
+   },
+   {
+    "items": 20,
+    "title": 10,
+    "price": 20,
+    "availability": 0,
+    "rating": 0
+   }
+  ],
+  "seconds": [
+   10.82,
+   26.18,
+   8.8
+  ],
+  "consistent": true
+ },
+ "scraperapi-books": {
+  "runs": [
+   {
+    "recall_pct": 100.0,
+    "hit": 40,
+    "of": 40
+   },
+   {
+    "recall_pct": 100.0,
+    "hit": 40,
+    "of": 40
+   },
+   {
+    "recall_pct": 100.0,
+    "hit": 40,
+    "of": 40
+   }
+  ],
+  "seconds": [
+   2.78,
+   1.41,
+   3.97
+  ],
+  "consistent": true
+ },
+ "apify-books": {
+  "runs": [
+   {
+    "items": 20,
+    "title": 20,
+    "price": 20,
+    "availability": 20,
+    "rating": 20
+   },
+   {
+    "items": 20,
+    "title": 20,
+    "price": 20,
+    "availability": 20,
+    "rating": 20
+   },
+   {
+    "items": 20,
+    "title": 20,
+    "price": 20,
+    "availability": 20,
+    "rating": 20
+   }
+  ],
+  "seconds": [
+   3.48,
+   3.9,
+   6.04
+  ],
+  "consistent": true
+ },
+ "hasdata-quotes": {
+  "runs": [
+   {
+    "items": 10,
+    "text": 10,
+    "author": 10
+   },
+   {
+    "items": 10,
+    "text": 10,
+    "author": 10
+   },
+   {
+    "items": 10,
+    "text": 10,
+    "author": 10
+   }
+  ],
+  "seconds": [
+   4.14,
+   6.02,
+   3.67
+  ],
+  "consistent": true
+ },
+ "scrapingbee-quotes": {
+  "runs": [
+   {
+    "items": 10,
+    "text": 10,
+    "author": 10
+   },
+   {
+    "items": 10,
+    "text": 10,
+    "author": 10
+   },
+   {
+    "items": 10,
+    "text": 10,
+    "author": 10
+   }
+  ],
+  "seconds": [
+   7.02,
+   4.88,
+   2.45
+  ],
+  "consistent": true
+ },
+ "zyte-quotes": {
+  "runs": [
+   {
+    "recall_pct": 100.0,
+    "hit": 20,
+    "of": 20
+   },
+   {
+    "recall_pct": 100.0,
+    "hit": 20,
+    "of": 20
+   },
+   {
+    "recall_pct": 100.0,
+    "hit": 20,
+    "of": 20
+   }
+  ],
+  "seconds": [
+   6.43,
+   9.42,
+   7.56
+  ],
+  "consistent": true
+ },
+ "scraperapi-quotes": {
+  "runs": [
+   {
+    "recall_pct": 100.0,
+    "hit": 20,
+    "of": 20
+   },
+   {
+    "recall_pct": 100.0,
+    "hit": 20,
+    "of": 20
+   },
+   {
+    "recall_pct": 100.0,
+    "hit": 20,
+    "of": 20
+   }
+  ],
+  "seconds": [
+   28.69,
+   23.42,
+   29.06
+  ],
+  "consistent": true
+ },
+ "apify-quotes": {
+  "runs": [
+   {
+    "items": 10,
+    "text": 10,
+    "author": 10
+   },
+   {
+    "items": 10,
+    "text": 10,
+    "author": 10
+   },
+   {
+    "items": 10,
+    "text": 10,
+    "author": 10
+   }
+  ],
+  "seconds": [
+   7.74,
+   6.35,
+   9.13
+  ],
+  "consistent": true
+ }
+}

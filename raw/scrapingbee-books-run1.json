@@ -1,0 +1,128 @@
+{
+ "status": 200,
+ "seconds": 1.66,
+ "data": {
+  "items": [
+   {
+    "title": "A Light in the Attic",
+    "price": "£51.77",
+    "availability": "In stock",
+    "rating": "star-rating Three"
+   },
+   {
+    "title": "Tipping the Velvet",
+    "price": "£53.74",
+    "availability": "In stock",
+    "rating": "star-rating One"
+   },
+   {
+    "title": "Soumission",
+    "price": "£50.10",
+    "availability": "In stock",
+    "rating": "star-rating One"
+   },
+   {
+    "title": "Sharp Objects",
+    "price": "£47.82",
+    "availability": "In stock",
+    "rating": "star-rating Four"
+   },
+   {
+    "title": "Sapiens: A Brief History of Humankind",
+    "price": "£54.23",
+    "availability": "In stock",
+    "rating": "star-rating Five"
+   },
+   {
+    "title": "The Requiem Red",
+    "price": "£22.65",
+    "availability": "In stock",
+    "rating": "star-rating One"
+   },
+   {
+    "title": "The Dirty Little Secrets of Getting Your Dream Job",
+    "price": "£33.34",
+    "availability": "In stock",
+    "rating": "star-rating Four"
+   },
+   {
+    "title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+    "price": "£17.93",
+    "availability": "In stock",
+    "rating": "star-rating Three"
+   },
+   {
+    "title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+    "price": "£22.60",
+    "availability": "In stock",
+    "rating": "star-rating Four"
+   },
+   {
+    "title": "The Black Maria",
+    "price": "£52.15",
+    "availability": "In stock",
+    "rating": "star-rating One"
+   },
+   {
+    "title": "Starving Hearts (Triangular Trade Trilogy, #1)",
+    "price": "£13.99",
+    "availability": "In stock",
+    "rating": "star-rating Two"
+   },
+   {
+    "title": "Shakespeare's Sonnets",
+    "price": "£20.66",
+    "availability": "In stock",
+    "rating": "star-rating Four"
+   },
+   {
+    "title": "Set Me Free",
+    "price": "£17.46",
+    "availability": "In stock",
+    "rating": "star-rating Five"
+   },
+   {
+    "title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+    "price": "£52.29",
+    "availability": "In stock",
+    "rating": "star-rating Five"
+   },
+   {
+    "title": "Rip it Up and Start Again",
+    "price": "£35.02",
+    "availability": "In stock",
+    "rating": "star-rating Five"
+   },
+   {
+    "title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+    "price": "£57.25",
+    "availability": "In stock",
+    "rating": "star-rating Three"
+   },
+   {
+    "title": "Olio",
+    "price": "£23.88",
+    "availability": "In stock",
+    "rating": "star-rating One"
+   },
+   {
+    "title": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+    "price": "£37.59",
+    "availability": "In stock",
+    "rating": "star-rating One"
+   },
+   {
+    "title": "Libertarianism for Beginners",
+    "price": "£51.33",
+    "availability": "In stock",
+    "rating": "star-rating Two"
+   },
+   {
+    "title": "It's Only the Himalayas",
+    "price": "£45.17",
+    "availability": "In stock",
+    "rating": "star-rating Two"
+   }
+  ]
+ }
+}

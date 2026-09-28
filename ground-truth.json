@@ -1,0 +1,166 @@
+{
+ "books": [
+  {
+   "title": "A Light in the Attic",
+   "price": "£51.77",
+   "availability": "In stock",
+   "rating": "Three"
+  },
+  {
+   "title": "Tipping the Velvet",
+   "price": "£53.74",
+   "availability": "In stock",
+   "rating": "One"
+  },
+  {
+   "title": "Soumission",
+   "price": "£50.10",
+   "availability": "In stock",
+   "rating": "One"
+  },
+  {
+   "title": "Sharp Objects",
+   "price": "£47.82",
+   "availability": "In stock",
+   "rating": "Four"
+  },
+  {
+   "title": "Sapiens: A Brief History of Humankind",
+   "price": "£54.23",
+   "availability": "In stock",
+   "rating": "Five"
+  },
+  {
+   "title": "The Requiem Red",
+   "price": "£22.65",
+   "availability": "In stock",
+   "rating": "One"
+  },
+  {
+   "title": "The Dirty Little Secrets of Getting Your Dream Job",
+   "price": "£33.34",
+   "availability": "In stock",
+   "rating": "Four"
+  },
+  {
+   "title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+   "price": "£17.93",
+   "availability": "In stock",
+   "rating": "Three"
+  },
+  {
+   "title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+   "price": "£22.60",
+   "availability": "In stock",
+   "rating": "Four"
+  },
+  {
+   "title": "The Black Maria",
+   "price": "£52.15",
+   "availability": "In stock",
+   "rating": "One"
+  },
+  {
+   "title": "Starving Hearts (Triangular Trade Trilogy, #1)",
+   "price": "£13.99",
+   "availability": "In stock",
+   "rating": "Two"
+  },
+  {
+   "title": "Shakespeare's Sonnets",
+   "price": "£20.66",
+   "availability": "In stock",
+   "rating": "Four"
+  },
+  {
+   "title": "Set Me Free",
+   "price": "£17.46",
+   "availability": "In stock",
+   "rating": "Five"
+  },
+  {
+   "title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+   "price": "£52.29",
+   "availability": "In stock",
+   "rating": "Five"
+  },
+  {
+   "title": "Rip it Up and Start Again",
+   "price": "£35.02",
+   "availability": "In stock",
+   "rating": "Five"
+  },
+  {
+   "title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+   "price": "£57.25",
+   "availability": "In stock",
+   "rating": "Three"
+  },
+  {
+   "title": "Olio",
+   "price": "£23.88",
+   "availability": "In stock",
+   "rating": "One"
+  },
+  {
+   "title": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+   "price": "£37.59",
+   "availability": "In stock",
+   "rating": "One"
+  },
+  {
+   "title": "Libertarianism for Beginners",
+   "price": "£51.33",
+   "availability": "In stock",
+   "rating": "Two"
+  },
+  {
+   "title": "It's Only the Himalayas",
+   "price": "£45.17",
+   "availability": "In stock",
+   "rating": "Two"
+  }
+ ],
+ "quotes": [
+  {
+   "text": "“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”",
+   "author": "Albert Einstein"
+  },
+  {
+   "text": "“It is our choices, Harry, that show what we truly are, far more than our abilities.”",
+   "author": "J.K. Rowling"
+  },
+  {
+   "text": "“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”",
+   "author": "Albert Einstein"
+  },
+  {
+   "text": "“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”",
+   "author": "Jane Austen"
+  },
+  {
+   "text": "“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”",
+   "author": "Marilyn Monroe"
+  },
+  {
+   "text": "“Try not to become a man of success. Rather become a man of value.”",
+   "author": "Albert Einstein"
+  },
+  {
+   "text": "“It is better to be hated for what you are than to be loved for what you are not.”",
+   "author": "André Gide"
+  },
+  {
+   "text": "“I have not failed. I've just found 10,000 ways that won't work.”",
+   "author": "Thomas A. Edison"
+  },
+  {
+   "text": "“A woman is like a tea bag; you never know how strong it is until it's in hot water.”",
+   "author": "Eleanor Roosevelt"
+  },
+  {
+   "text": "“A day without sunshine is like, you know, night.”",
+   "author": "Steve Martin"
+  }
+ ]
+}
