@@ -2,7 +2,7 @@
 
 ![HasData, one of the vendors measured and the company that ran the study](banner.png)
 
-Five web scraping APIs asked to extract the same structured data from the same pages through their own native mechanisms, graded field by field against locally parsed ground truth. This is the study behind the parsing column of [our web scraping APIs comparison](https://hasdata.com/blog/best-web-scraping-apis).
+Five web scraping APIs asked to extract the same structured data from the same pages through their own native mechanisms, graded field by field against locally parsed ground truth. This is the study behind the parsing column of [our web scraping APIs comparison](https://hasdata.com/blog/best-web-scraping-apis?utm_source=github&utm_medium=syndication&utm_campaign=best-web-scraping-apis&utm_content=parsing-fidelity-study-readme).
 
 ## Table of Contents
 
@@ -50,9 +50,9 @@ The shipped `raw/` holds all 30 responses, three per vendor per target.
 
 ## Disclaimer
 
-The targets are public scraping sandboxes built for exactly this use. Whether and how scraping fits other targets depends on jurisdiction and terms, and nothing in this repository is legal advice. [Is Web Scraping Legal?](https://hasdata.com/blog/is-web-scraping-legal) covers how we think about the question.
+The targets are public scraping sandboxes built for exactly this use. Whether and how scraping fits other targets depends on jurisdiction and terms, and nothing in this repository is legal advice. [Is Web Scraping Legal?](https://hasdata.com/blog/is-web-scraping-legal?utm_source=github&utm_medium=syndication&utm_campaign=best-web-scraping-apis&utm_content=parsing-fidelity-study-readme) covers how we think about the question.
 
 ## More Resources
 
-- [Best Web Scraping APIs](https://hasdata.com/blog/best-web-scraping-apis), the comparison this study feeds
-- [Web Scraping with AI](https://hasdata.com/blog/web-scraping-with-ai), where extraction fidelity meets LLMs
+- [Best Web Scraping APIs](https://hasdata.com/blog/best-web-scraping-apis?utm_source=github&utm_medium=syndication&utm_campaign=best-web-scraping-apis&utm_content=parsing-fidelity-study-readme), the comparison this study feeds
+- [Web Scraping with AI](https://hasdata.com/blog/web-scraping-with-ai?utm_source=github&utm_medium=syndication&utm_campaign=best-web-scraping-apis&utm_content=parsing-fidelity-study-readme), where extraction fidelity meets LLMs
